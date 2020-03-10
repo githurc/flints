@@ -1,8 +1,8 @@
 ---
 title: flints- all your ideas to shine
 banner:
-  title: Digital Product advisory service
-  subtitle: ''
+  title: flints.io
+  subtitle: Digital Product advisory service
   show_scroll_button: true
 sections:
 - type: features
