@@ -105,8 +105,6 @@ fields:
   config:
     required: true
 pages:
-- aliquam-ultricies.md
-- diam-sed-interdum.md
 - enim-est-aenean.md
 - generic.md
 - justo-aliquet-magna.md
