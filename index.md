@@ -1,9 +1,8 @@
 ---
 title: flints- all your ideas to shine
 banner:
-  title: This is Construct
-  subtitle: "Aliquam scelerisque rutrum nec donec lorem ipsum dolor sit amet  \nporttitor
-    ornare tempus dignissim felis magna commodo."
+  title: Digital Product advisory service
+  subtitle: ''
   show_scroll_button: true
 sections:
 - type: features
