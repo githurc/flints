@@ -8,27 +8,10 @@ banner:
 sections:
 - type: features
   template: features
-  title: Commodo justo interdum
-  subtitle: "Nam condimentum ullamcorper quam vitae dictum. Sed consectetur nulla
-    lacus,  \nultricies ornare lacus volutpat at. Nunc rutrum turpis ipsum."
+  title: Important Notice
+  subtitle: This site is no longer in operation
   section_id: three
-  features:
-  - title: Facilisis tempus
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
-    icon: fa-camera-retro
-  - title: Lectus magna
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
-    icon: fa-cog
-  - title: Ipsum lorem
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
-    icon: fa-diamond
-  - title: Feugiat veroeros
-    text: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis diam tempus.
-    icon: fa-floppy-o
+  features: []
   actions:
   - label: Learn More
     url: "/elements"
