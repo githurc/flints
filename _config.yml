@@ -2,7 +2,7 @@
 title: flints.io by SMCR Limited
 baseurl: "/"
 permalink: "/:title/"
-palette: cyan
+palette: blue
 palettes:
   blue:
     sass:
