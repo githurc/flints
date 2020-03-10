@@ -105,6 +105,4 @@ fields:
   config:
     required: true
 pages:
-- generic.md
-- justo-aliquet-magna.md
 - magna-tempus-nisl.md
