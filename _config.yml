@@ -1,8 +1,8 @@
 ---
-title: SMCR Limited
+title: flints.io by SMCR Limited
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: cyan
 palettes:
   blue:
     sass:
