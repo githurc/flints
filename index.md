@@ -12,11 +12,7 @@ sections:
   subtitle: This site is no longer in operation
   section_id: three
   features: []
-  actions:
-  - label: Learn More
-    url: "/elements"
-    is_scrolly: false
-    is_primary: false
+  actions: []
   component: features.html
 cta:
   enabled: false
